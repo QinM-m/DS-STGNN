@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+.vscode/
+datasets/
+results/
+trained_models/
+*.pth
+*.tar
+*.zip
+*.log
+.DS_Store
