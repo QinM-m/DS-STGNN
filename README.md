@@ -15,7 +15,7 @@ Traditional GNN-based association methods often rely on computationally expensiv
 Extensive experiments show that our method significantly reduces inference time while achieving strong zero-shot generalization and state-of-the-art accuracy in complex scenarios.
 
 ## 🎬 Visualization Demo (EPFL-Laboratory)
-<img src="demo.gif" width="1000">
+![Demo](demo.gif)
 ## ⚙️ Environment Setup
 
 We recommend using [Anaconda](https://www.anaconda.com/) to manage the environment. 
