@@ -16,7 +16,7 @@ Extensive experiments show that our method significantly reduces inference time 
 
 ## 🎬 Visualization Demo (EPFL-Laboratory)
 <div align="center">
-  <video src="assets/laboratory_4view_demo.mp4" width="800" controls="controls" autoplay="autoplay" loop="loop" muted="muted"></video>
+  <video src="laboratory_4view_demo.mp4" width="800" controls="controls" autoplay="autoplay" loop="loop" muted="muted"></video>
 </div>
 
 ## ⚙️ Environment Setup
