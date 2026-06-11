@@ -13,6 +13,12 @@ Traditional GNN-based association methods often rely on computationally expensiv
 2. **Dual-Branch Message Passing:** Explicitly decouples spatial graph convolutions from temporal propagation, enabling a robust, end-to-end association pipeline without the strict dependency on artificial post-processing.
 
 Extensive experiments show that our method significantly reduces inference time while achieving strong zero-shot generalization and state-of-the-art accuracy in complex scenarios.
+
+## 🎬 Visualization Demo (EPFL-Laboratory)
+<div align="center">
+  <video src="assets/laboratory_4view_demo.mp4" width="800" controls="controls" autoplay="autoplay" loop="loop" muted="muted"></video>
+</div>
+
 ## ⚙️ Environment Setup
 
 We recommend using [Anaconda](https://www.anaconda.com/) to manage the environment. 
