@@ -16,6 +16,7 @@ Extensive experiments show that our method significantly reduces inference time 
 
 ## 🎬 Visualization Demo (EPFL-Laboratory)
 <img src="demo.gif" width="1000">
+
 ## ⚙️ Environment Setup
 
 We recommend using [Anaconda](https://www.anaconda.com/) to manage the environment. 
